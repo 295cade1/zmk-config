@@ -1,5 +1,2 @@
 #include "hubris58.dtsi"
-
-&default_transform {
-    col-offset = <0>;
-};
+#include "hubris58.keymap"
