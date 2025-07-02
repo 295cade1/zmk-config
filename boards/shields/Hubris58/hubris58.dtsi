@@ -1,5 +1,4 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "hubris58.keymap"
 
 / {
     kscan0: kscan0 {
