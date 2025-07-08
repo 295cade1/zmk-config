@@ -24,7 +24,7 @@
                 &kp MINUS  &kp Q       &kp W       &kp E      &kp R      &kp T    &kp Y  &kp U     &kp I      &kp O      &kp P     &kp BSLH
                 &kp ESC    &kp A       &kp S       &kp D      &kp F      &kp G    &kp H  &kp J     &kp K      &kp L      &kp SEMI  &kp SQT
                 &kp GRAVE  &kp Z       &kp X       &kp C      &kp V      &kp B    &kp N  &kp M     &kp COMMA  &kp DOT    &kp FSLH  &kp EQUAL
-                &none      &kp N9  &kp N0  &kp LEFT   &kp RIGHT                  &kp UP    &kp DOWN   &kp LBKT   &kp RBKT  &none
+                &out OUT_USB      &kp N9  &kp N0  &kp LEFT   &kp RIGHT                  &kp UP    &kp DOWN   &kp LBKT   &kp RBKT  &none
                                        &kp LSHFT   &kp LCTRL  &none                      &kp RGUI  &kp RCTRL  &none
                                        &kp BSPC    &kp TAB    &kp LALT                   &kp RALT  &kp RET    &kp SPACE
             >;

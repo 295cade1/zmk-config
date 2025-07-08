@@ -1,5 +1,1 @@
 #include "hubris58.dtsi"
-
-&default_transform {
-    col-offset = <6>;
-};
